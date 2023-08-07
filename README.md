@@ -38,6 +38,8 @@ To install the required packages, follow there instructions (tested on a linux t
 Simply run:
 `python main.py --mode test --model_path ./results/DrugVNN.pth --only_combine_child_gene_group` 
 
+data and trained model can be found in [here](https://zenodo.org/record/8221046)
+
 
 
 
